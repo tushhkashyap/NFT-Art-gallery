@@ -1,0 +1,16 @@
+
+.bgimg {
+    height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-image: url("/home2.7600dd31.jpg");
+  min-height: 75%;
+ 
+}
+
+.menu {
+  display: none;
+}
+
+
+/*# sourceMappingURL=/style2.29d9320b.css.map */
